@@ -1,2 +1,2 @@
 # Clima
-simple weather app using OpenWeatherMap API 
+simple weather app using ( Flutter - OpenWeatherMap API)
